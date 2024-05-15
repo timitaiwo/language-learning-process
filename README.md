@@ -15,7 +15,8 @@ https://youtu.be/87SH2Cn0s9A?si=LcluVxABoh2NW0bj
 ## Intermediate stuff
 8. functions
 9. classes
-10. decorators
+10. Memory management e.g Allocators, Constructors etc.
+11. decorators
 
 ## Beginner Exercises (increasing difficulty)
 The below exercises can be used to get familiar with the syntax of a language and can be done with the various level of user interactivity. Write a program that does the below:
