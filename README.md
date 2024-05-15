@@ -6,7 +6,7 @@ https://youtu.be/87SH2Cn0s9A?si=LcluVxABoh2NW0bj
 ## Basic Language Constructs
 1. variable deceleration 
 2. Printing to terminal/commandline
-3. operators (e.g arithmetic and logic operators) _[1]_
+3. operators (e.g arithmetic. logic and tenary) _[1]_
 4. conditional statements (if, if/else etc.)
 5. loops (for, while etc.)
 6. input/output (accepting user input mostly)
