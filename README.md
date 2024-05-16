@@ -9,8 +9,9 @@ https://youtu.be/87SH2Cn0s9A?si=LcluVxABoh2NW0bj
 3. operators (e.g arithmetic. logic and tenary) _[1]_
 4. conditional statements (if, if/else etc.)
 5. loops (for, while etc.)
-6. input/output (accepting user input mostly)
-7. files (reading from and writing to files)
+6. Collection objects e.g List/Arrays, Set etc.
+7. input/output (accepting user input mostly)
+8. files (reading from and writing to files)
 
 
 _[1] arithmetic operators represent addition, subtraction etc. logical operators represent AND, OR etc._
