@@ -31,3 +31,5 @@ The below exercises can be used to get familiar with the syntax of a language an
 5. Takes a temprature measurement and prints if the temprature is hot, cold or warm depending on the value. Hot, cold and warm values fall within ranges (conditional statements)
 6. Request a piece of information from a user a given number of times and give a response either when the correct information is passed or the request has been made that number of times. (loops)
 7. Request a piece of information from a user and repeat the request until the user give an acceptable response (loops)
+8. Iterate over a list/array and print each of it's elements to the screen/terminal. e.g [6, 12, 24, 48, 96] or it's floating point equivalent. (collection objects).
+9. Given an array/list [1, 2, 3, 4, 5] remove 4 from the array to give [1, 2, 3, 5]. Then add 6 to give [1, 2, 3, 5, 6]. (collection objects )
