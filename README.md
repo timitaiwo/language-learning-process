@@ -26,7 +26,7 @@ _[1] arithmetic operators represent addition, subtraction etc. logical operators
 The below exercises can be used to get familiar with the syntax of a language and can be done with the various level of user interactivity. Write a program that does the below:
 1. Calculate the circumference of a circle - 2*PI*r
 2. Implement and use Pythagoras theorem in a program i.e x^2 = y^2 + z^2
-3. Convert a given temprature unit from Celcius to Farenheight or from Farenheight to Celcius depending on the user input
-4. A calculator that takes two inputs and an operator and performs the associated mathematical operation e.g inputs '6', '4' and '+' would output 10 as 6+4=10. This can be done with and without using functions/procedures.
+3. Convert a given temprature unit from Celcius to Farenheight or from Farenheight to Celcius depending on the user input (conditional statements)
+4. A calculator that takes two inputs and an operator and performs the associated mathematical operation e.g inputs '6', '4' and '+' would output 10 as 6+4=10. This can be done with and without using functions/procedures. (conditional/switch statements)
 5. Takes a temprature measurement and prints if the temprature is hot, cold or warm depending on the value. Ensure to use comparators (AND or OR) to check if the temprature falls within a given range
-6. Request a piece of information from a user a given number of times and repeat the request until the user give an acceptable response.
+6. Request a piece of information from a user a given number of times and repeat the request until the user give an acceptable response. (loops)
