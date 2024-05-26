@@ -83,4 +83,4 @@ The below exercises can be used to get familiar with the syntax of a language an
 16. Implement a class or struct that represents a player of a a club. The class/struct has a name, age, club, player number and an array of previous played numbers. Inheritance should be used if possible.
 17. _(language classes)_ Implement methods/functions for the player in above exercise. The player could be running, walking or jogging. Implement a function(s) that would print to terminal the status of the player.
 
-x. implement a bubble sort using swap (functions)
+x. implement  three sorting algorithms to sort the array/list ```[4, 3, 7, 7, 0, 5]``` (functions)
