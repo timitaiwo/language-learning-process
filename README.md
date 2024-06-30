@@ -84,4 +84,4 @@ __14.__ Implement the functionality of all above exercises as functions.
 17. _(language classes)_ Implement methods/functions for the player in above exercise. The player could be running, walking or jogging. Implement a function(s) that would print to terminal the status of the player.
 
 x. implement  three sorting algorithms to sort the array/list ```[4, 3, 7, 7, 0, 5]``` (functions)
-x. solve a dynamic programming problem, one using recursion and the other the bottom-top method.
+<br>x. solve a dynamic programming problem, one using recursion and the other the bottom-top method.
