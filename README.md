@@ -79,9 +79,12 @@ The below exercises can be used to get familiar with the syntax of a language an
     ]
     ```
 __14.__ Implement the functionality of all above exercises as functions.
+
 15. Implement a class or struct that represents a person who has a name and an age.
-16. Implement a class or struct that represents a player of a a club. The class/struct has a name, age, club, player number and an array of previous played numbers. Inheritance should be used if possible.
-17. _(language classes)_ Implement methods/functions for the player in above exercise. The player could be running, walking or jogging. Implement a function(s) that would print to terminal the status of the player.
+
+16. Implement a class or struct that represents a complex number x+y_i_.
+
+17. Implement class or struct methods that implement addition, subtraction, multiplication, and division with a second complex number. Include another that converts it to thr radial format (magnitude, angle).
 
 x. implement  three sorting algorithms to sort the array/list ```[4, 3, 7, 7, 0, 5]``` (functions)
 <br>x. solve a dynamic programming problem, one using recursion and the other the bottom-top method.
