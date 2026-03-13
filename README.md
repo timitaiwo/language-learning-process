@@ -82,9 +82,9 @@ __14.__ Implement the functionality of all above exercises as functions.
 
 15. Implement a class or struct that represents a person who has a name and an age.
 
-16. Implement a class or struct that represents a complex number x+y_i_.
+16. Implement a class or struct that represents a complex number x + y _i_.
 
-17. Implement class or struct methods that implement addition, subtraction, multiplication, and division with a second complex number. Include another that converts it to thr radial format (magnitude, angle).
+17. Implement class or struct methods that implement addition, subtraction, multiplication, and division with a second complex number. Include another that converts it to thr radial format i.e. defined by it's magnitude and  angle.
 
 x. implement  three sorting algorithms to sort the array/list ```[4, 3, 7, 7, 0, 5]``` (functions)
 <br>x. solve a dynamic programming problem, one using recursion and the other the bottom-top method.
