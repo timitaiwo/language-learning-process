@@ -21,6 +21,7 @@ _[1] arithmetic operators represent addition, subtraction etc. logical operators
 9. Classes/Struct
 10. Memory management e.g Allocators, Constructors etc.
 11. decorators
+12. Concurrency 
 
 ## Beginner Exercises (increasing difficulty)
 The below exercises can be used to get familiar with the syntax of a language and can be done with the various level of user interactivity. Write a program that does the below:
@@ -84,7 +85,11 @@ __14.__ Implement the functionality of all above exercises as functions.
 
 16. Implement a class or struct that represents a complex number x + y _i_.
 
+
 17. Implement class or struct methods that implement addition, subtraction, multiplication, and division with a second complex number. Include another that converts it to thr radial format i.e. defined by it's magnitude and  angle.
 
-x. implement  three sorting algorithms to sort the array/list ```[4, 3, 7, 7, 0, 5]``` (functions)
-<br>x. solve a dynamic programming problem, one using recursion and the other the bottom-top method.
+18. Implement the below concurrency patterns
+    - Single Producer Single Consumer (SPSC)
+    - Single Producer Multi Consumer (SPMC)
+    - Multi Producer Single Consumer (MPSC)
+    - Multi Producer Multi Consumer (MPMC)
